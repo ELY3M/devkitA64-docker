@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * *"
 
 env:
-  IMAGE_PATH: ghcr.io/irneracoonovich/devkita64
+  IMAGE_PATH: ghcr.io/ELY3M/devkita64
 
 permissions: 
   packages: write
