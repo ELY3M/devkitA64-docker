@@ -3,7 +3,7 @@ name: Build updated Devkit image
 on:
   workflow_dispatch: 
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "13 0 * * *"
 
 env:
   IMAGE_PATH: ghcr.io/ely3m/devkita64
